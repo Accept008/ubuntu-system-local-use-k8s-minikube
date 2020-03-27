@@ -9,7 +9,8 @@
           ![image](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube/blob/master/install-site.png)    
         sudo mkdir -p /usr/local/bin/    
         sudo install minikube /usr/local/bin/
-    
+  ![image](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube/blob/master/install-site.png)
+        
     本地启动K8S服务cmd(查看local-start-k8s.jpg)
         minikube start --vm-driver=none --image-repository=registry.cn-hangzhou.aliyuncs.com/google_containers
     
