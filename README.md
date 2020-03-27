@@ -1,4 +1,4 @@
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube/blob/master/install-site.png)
 # minikube安装官网：
     https://kubernetes.io/docs/tasks/tools/install-minikube/
     
