@@ -1,3 +1,4 @@
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 # minikube安装官网：
     https://kubernetes.io/docs/tasks/tools/install-minikube/
     
@@ -5,7 +6,7 @@
     下载并安装到【/usr/local/bin/】路径下(查看install-site.png)
         curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \
           && chmod +x minikube
-     ![image](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube/blob/master/install-site.png)    
+          ![image](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube/blob/master/install-site.png)    
         sudo mkdir -p /usr/local/bin/    
         sudo install minikube /usr/local/bin/
     
